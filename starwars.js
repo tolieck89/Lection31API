@@ -133,9 +133,9 @@ const descriprion = `Lorem ipsum dolor, sit amet consectetur adipisicing elit. D
 m corrupti? Reiciendis ut fuga esse temporibus, officia doloremque cumque eum unde, amet maiores harum, omnis voluptas error vel nam inventore.`
 
 const descriprions = {
-    planets: `<h3>Welcome to the page of jerky planets of this stupied movies🤢.I hate it!</h3> <p>${descriprion}</p> <br> <img class='desc_img' src='./img/tatooine.jpg'>`,
-    people: `<h3>Welcome to the page of jerky characters of this stupied movies🤢.I hate it!</h3> <p>${descriprion}</p> <br> <img class='desc_img' src='./img/luck.jpg'>`,
-    starships: `<h3>Welcome to the page of jerky starships if this stupied movies🤢.I hate it!</h3> <p>${descriprion}</p> <br> <img class='desc_img' src='./img/deathstar.png'>`,
+    planets: `<h3>Welcome to the page of jerky planets of these stupied movies🤢.I hate it!</h3> <p>${descriprion}</p> <br> <img class='desc_img' src='./img/tatooine.jpg'>`,
+    people: `<h3>Welcome to the page of jerky characters of these stupied movies🤢.I hate it!</h3> <p>${descriprion}</p> <br> <img class='desc_img' src='./img/luck.jpg'>`,
+    starships: `<h3>Welcome to the page of jerky starships if these stupied movies🤢.I hate it!</h3> <p>${descriprion}</p> <br> <img class='desc_img' src='./img/deathstar.png'>`,
 }
 
 const database = {planets: [
