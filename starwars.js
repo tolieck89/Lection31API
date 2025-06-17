@@ -1,3 +1,4 @@
+import "./styles.scss"
 let peopleUrl = '';
 let  parentclass = '';
 let pagescount = 0;

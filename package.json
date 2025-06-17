@@ -1,0 +1,40 @@
+{
+  "name": "webpack-starwars",
+  "version": "1.0.0",
+  "main": "starwars.js",
+  "type": "module",
+  "scripts": {
+    "dev": "webpack --mode development",
+    "build": "webpack --mode production",
+    "watch": "webpack --mode development --watch",
+    "start": "webpack serve --mode development --open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tolieck89/Lection31API.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tolieck89/Lection31API/issues"
+  },
+  "homepage": "https://github.com/tolieck89/Lection31API#readme",
+  "description": "",
+  "devDependencies": {
+    "@eslint/js": "^9.29.0",
+    "clean-webpack-plugin": "^4.0.0",
+    "copy-webpack-plugin": "^13.0.0",
+    "css-loader": "^7.1.2",
+    "eslint": "^9.29.0",
+    "eslint-webpack-plugin": "^5.0.2",
+    "globals": "^16.2.0",
+    "html-webpack-plugin": "^5.6.3",
+    "sass": "^1.89.2",
+    "sass-loader": "^16.0.5",
+    "style-loader": "^4.0.0",
+    "webpack": "^5.99.9",
+    "webpack-cli": "^6.0.1",
+    "webpack-dev-server": "^5.2.2"
+  }
+}
